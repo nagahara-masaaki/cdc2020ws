@@ -2,6 +2,16 @@
 # IEEE CDC 2020 Workshop
 # Compressed Sensing and Sparse Representation for Systems and Control
 
+## Overview
+Sparsity is one of the major topics in machine learning and signal processing. Compressed sensing, also known as sparse representation, refers to the recovery of a high-dimensional but low-complexity vector (or signal) from a limited number of measurements. The notion of sparsity has also been attracting attention in control systems. In control systems, the sparsity in time is proposed for resource-aware control, such as event- (or self-) triggered control, where sensing and actuation is performed when needed. Also, optimal control called maximum hands-off control directly minimizes the time duration on which the control is active (i.e. L0 norm). Sparsity is also available for model reduction of control systems and networks.
+
+In this workshop, we will review recent advances of sparsity methods in systems and control, and communications. We give lectures on
+- tradeoffs between performance and complexity in control
+- L0-optimal control and control node scheduling
+- sparsity methods for wireless communications
+- maximum hands-off control
+
+
 ## List of Speakers
 - **Mihailo Jovanovic**, University of Southern California
 - **Takuya Ikeda**, The University of Kitakyushu
