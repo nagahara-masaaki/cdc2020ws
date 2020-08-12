@@ -17,7 +17,7 @@ In this workshop, we will review recent advances of sparsity methods in systems 
 - [**Takuya Ikeda**](https://researchmap.jp/t-ikd/?lang=en), The University of Kitakyushu
 - [**Kazunori Hayashi**](https://kazunorihayashi.github.io/index_e.html), Kyoto University
 - [**Ryo Hayakawa**](http://www.ip.info.eng.osaka-cu.ac.jp/~rhayakawa/index-e.html), Osaka University
-- [**Masaaki Nagahara**](https://nagahara-masaaki.github.io), The University of Kitakyushu
+- [**Masaaki Nagahara**](https://nagahara-masaaki.github.io), Organizer of this workshop, The University of Kitakyushu
 
 ## Program
 - **13:00-13:10**: *Opening Address*
