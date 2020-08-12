@@ -1,0 +1,4 @@
+# Sparse optimal control with application to node selection problem
+## Takuya Ikeda (The University of Kitakyushu)
+## Abstract
+In this talk, we consider an optimal control problem that penalizes the control variable by a functional called L0 norm. Since the cost is defined as the length of support, the optimization tends to make the control input identically zero over a time interval. This is why the problem is referred to as sparse optimal control. This framework finds an optimal activation schedule that assigns when and which controller should be active to effectively guide the system. This is useful in reducing energy consumption in automobile systems and communication traffic in networked systems. We will review characterizations of the optimal control and its recent application to control node scheduling problem in complex networks.
