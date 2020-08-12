@@ -1,0 +1,4 @@
+# Overloaded signal detection for communications systems via compressed sensing technique
+## Kazunori Hayashi (Kyoto University) and Ryo Hayakawa (Osaka University)
+## Abstract
+The unknown vector recovery from its linear measurements is one of typical problems in wireless communications systems, such as channel equalization, MIMO (multi-input multi-output) signal detection, and IoT (internet-of-things) signal detection. In order to improve the spectral efficiency, it is preferable to cope with the scenario where the numb er of linear measurements is possibly less than that of dimension of the unknown vector, namely, underdetermined linear measurements. In this talk, we call such signal processing as overloaded signal detection, and explain fundamental idea to recover the unknown vector, which is known to be sparse and/or discrete a priori. Moreover, we show some applications for wireless communications systems with numerical results.
