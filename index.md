@@ -22,16 +22,16 @@ In this workshop, we will review recent advances of sparsity methods in systems 
 ## Program
 - **13:00-13:10**: *Opening Address*
 - **13:10-14:00** 
-  - *Controller architectures: tradeoffs between performance and complexity*
+  - [*Controller architectures: tradeoffs between performance and complexity*](mihailo.md)
   - **Mihailo Jovanovic** (University of Southern California)
 - **14:00-14:50**
-  - *Sparse optimal control with application to node selection problem*
+  - [*Sparse optimal control with application to node selection problem*](ikeda.md)
   - **Takuya Ikeda** (The University of Kitakyushu)
 - **14:50-15:00**: Break
 - **15:00-15:50**
-  - *Overloaded signal detection for communications systems via compressed sensing technique*
+  - [*Overloaded signal detection for communications systems via compressed sensing technique*](hayashi.md)
   - **Kazunori Hayashi** (Kyoto University) and **Ryo Hayakawa** (Osaka University)
 - **15:50-16:40**
-  - *Maximum hands-off control*
+  - [*Maximum hands-off control*](nagahara.md)
   - **Masaaki Nagahara** (The University of Kitakyushu)
 - **16:40-16:50**: *Closing*
