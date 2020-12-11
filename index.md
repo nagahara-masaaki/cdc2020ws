@@ -20,6 +20,7 @@ In this workshop, we will review recent advances of sparsity methods in systems 
 - [**Masaaki Nagahara**](https://nagahara-masaaki.github.io), Organizer of this workshop, The University of Kitakyushu
 
 ## Program
+*Note: The time is UTC (or GMT; the time in UK). For the current UTC time, see [here](https://cdc2020.ieeecss.org/utc-time.php).*
 - **13:00-13:10**: *Opening Address*
 - **13:10-14:00** 
   - [*Controller architectures: tradeoffs between performance and complexity*](mihailo.md)
